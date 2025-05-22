@@ -1,0 +1,5 @@
+# META-INF/spring.factories
+
+# Declare factory for configuration classes
+org.springframework.boot.autoconfigure.AutoConfiguration.imports=\
+fr.formationacademy.check-common-lib-starter.config.WebConfig;
